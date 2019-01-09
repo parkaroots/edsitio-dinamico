@@ -1,0 +1,14 @@
+/* ******** helpers ********* */
+@import './helpers/variables';
+@import './helpers/mixins';
+@import './helpers/_reset';
+@import './helpers/_utilities';
+@import './helpers/_utilities';
+
+/* ******** components ********* */
+
+@import './components/_header';
+@import './components/_logo';
+@import './components/_menu';
+@import './components/footer.scss';
+@import'./components/_social_media.scss;
