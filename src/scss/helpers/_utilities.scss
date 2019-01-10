@@ -13,3 +13,9 @@
     }
 }
 
+.u-message{
+    font-size: 4vw;
+    font-weight: bold;
+    text-align: center;
+    @include mq(m) {font-size: 1.5rem}
+}
